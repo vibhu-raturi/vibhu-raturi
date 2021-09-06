@@ -5,8 +5,7 @@
 - 🔭 I’m currently working on Machine Learning Projects
 - 🌱 I’m currently learning AI & ML
 - 👯 I’m looking to collaborate on Data Science Projects
-- 💬 Ask me about 
-- ⚡ Fun fact:
+- 💬 Let's talk about Data 
 - 📫 How to reach me:
 
 
