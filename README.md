@@ -10,6 +10,11 @@
 - 📫 How to reach me:
 
 
+![<Badge Name>](https://img.shields.io/badge/LinkedIn-<#2874F0>?style=for-the-badge&logo=<LinkedIn>&logoColor=<#2874F0>)
+  
+![<Badge Name>](https://img.shields.io/badge/Email-<#0A66C2>?style=for-the-badge&logo=<Email>&logoColor=<#0A66C2>)
+
+
 <!--
 **vibhu-raturi/vibhu-raturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
